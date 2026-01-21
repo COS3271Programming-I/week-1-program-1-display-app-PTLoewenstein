@@ -1,0 +1,25 @@
+package myclass; 
+
+public class JavaHomeWork { 
+
+public static void main(String[] args) { 
+
+System.out.println("===================================="); 
+System.out.println("\t\tMY FAVORITE SAYING"); 
+System.out.println("====================================\n"); 
+
+// Left-justified block (30-character field) 
+System.out.println("Left Justified:"); 
+System.out.printf("%-30s%s%n%n", "Example:", "Don't Stop Believin!"); 
+
+// Right-justified block (30-character field) 
+System.out.printf("%30s%n", "Right Justified:"); 
+System.out.printf("%30s%n%n", "Hold on to that Feelin!"); 
+
+// Tabs demo 
+System.out.println("Using Tabs:"); 
+System.out.println("\tStreet Lights"); 
+System.out.println("\t\tPeople!!"); 
+
+} 
+} 
