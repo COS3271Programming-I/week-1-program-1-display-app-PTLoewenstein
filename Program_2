@@ -1,0 +1,30 @@
+package myclass; 
+
+public class JavaHomeWork { 
+
+public static void main(String[] args) { 
+
+System.out.println("TEXT ART: Lone Tree\n"); 
+System.out.println("##############################"); 
+System.out.println("###########%%%%%##############"); 
+System.out.println("#######%%%%%%%%%%%%%##########"); 
+System.out.println("#####%%%%%%%%%%%%%%%##########"); 
+System.out.println("####%%%%%%% %%%%#########"); 
+System.out.println("###%%%%%% %%%%#######"); 
+System.out.println("###%%%% /\\ %%%%#####"); 
+System.out.println("##%%%% / \\ %%%%####"); 
+System.out.println("##%%% / \\ %%%%###"); 
+System.out.println("##%%% / /\\ \\ %%###"); 
+System.out.println("##%%% || \\ %%##"); 
+System.out.println("##%%% || \\ %%##"); 
+System.out.println("###%%% || \\ %%###"); 
+System.out.println("####%%% || | %%####"); 
+System.out.println("#####%%% || | %%#####"); 
+System.out.println("######%%% || | %%######"); 
+System.out.println("#######%%%__||_______|%%#######"); 
+System.out.println("########%%%%%%% %%%%#######"); 
+System.out.println("###########%%%%%%%#######%%%%##"); 
+System.out.println("##############################"); 
+
+} 
+} 
